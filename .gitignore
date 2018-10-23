@@ -1,0 +1,11 @@
+.gitignore
+
+# Editor project settings
+.vscode
+
+# Dependencies
+node_modules
+package-lock.json
+
+# Builds
+dist
