@@ -1,7 +1,7 @@
 # Formation JS Ismin
 
 Ce repository git sert de base à la seconde formation Javascript
-donnée par Mathieu CAROFF et Youen FROGER en octobre 2018.
+donnée par Mathieu CAROFF et Youen FROGER en novembre 2018.
 
 La suite de ce fichier README explique l'installation des dépendances et
 comment obtenir un environnement de développemenet prêt à être utilisé.
